@@ -6,13 +6,16 @@
 #         self.result = str
 
 
-def view_results(result: dict):
-    print(
-        f"""
-          * {result['calculator']}
-          * {result['entries']}
-          * {result['status']}
-          * {result['result']}
+def view_results(result):
+    print(result)
+    # if not isinstance(result) == dict:
+    #     return "Erro para visualizar os resultados"
+#     print(
+#         f"""
+#           * {result['calculator']}
+#           * {result['entries']}
+#           * {result['status']}
+#           * {result['result']}
 
-"""
-    )
+# """
+#     )

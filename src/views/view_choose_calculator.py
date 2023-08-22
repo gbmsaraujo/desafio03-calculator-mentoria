@@ -5,6 +5,7 @@ def choose_calculator():
     1 - Primeira Calculadora
     2 - Segunda Calculadora
     3 - Terceira Calculadora
+    4 - Sair
 
 """
     )

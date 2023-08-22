@@ -1,4 +1,3 @@
-import math
 from src.drivers.calculator_manager import calculator_manager
 from src.models.repositories.calculator_repository import calculator_repository
 
@@ -35,7 +34,7 @@ class CalculatorOne:
 
     def __first_part_operation(self):
         result = (self.part_one / 4) + 7
-        square_operation = math.sqrt(result) * 0.257
+        square_operation = calculator_manager.square(result) * 0.257
         self.part_one = square_operation
 
     def __second_part_operation(self):

@@ -1,5 +1,141 @@
 [
     {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "ICalculator",
+        "importPath": "src.controllers.interface.Icalculator",
+        "description": "src.controllers.interface.Icalculator",
+        "isExtraImport": true,
+        "detail": "src.controllers.interface.Icalculator",
+        "documentation": {}
+    },
+    {
+        "label": "ICalculator",
+        "importPath": "src.controllers.interface.Icalculator",
+        "description": "src.controllers.interface.Icalculator",
+        "isExtraImport": true,
+        "detail": "src.controllers.interface.Icalculator",
+        "documentation": {}
+    },
+    {
+        "label": "ICalculator",
+        "importPath": "src.controllers.interface.Icalculator",
+        "description": "src.controllers.interface.Icalculator",
+        "isExtraImport": true,
+        "detail": "src.controllers.interface.Icalculator",
+        "documentation": {}
+    },
+    {
+        "label": "ICalculator",
+        "importPath": "src.controllers.interface.Icalculator",
+        "description": "src.controllers.interface.Icalculator",
+        "isExtraImport": true,
+        "detail": "src.controllers.interface.Icalculator",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
         "label": "ABC",
         "importPath": "abc",
         "description": "abc",
@@ -16,86 +152,6 @@
         "documentation": {}
     },
     {
-        "label": "HttpRequest",
-        "importPath": "src.types.http_types.http_request",
-        "description": "src.types.http_types.http_request",
-        "isExtraImport": true,
-        "detail": "src.types.http_types.http_request",
-        "documentation": {}
-    },
-    {
-        "label": "HttpRequest",
-        "importPath": "src.types.http_types.http_request",
-        "description": "src.types.http_types.http_request",
-        "isExtraImport": true,
-        "detail": "src.types.http_types.http_request",
-        "documentation": {}
-    },
-    {
-        "label": "HttpRequest",
-        "importPath": "src.types.http_types.http_request",
-        "description": "src.types.http_types.http_request",
-        "isExtraImport": true,
-        "detail": "src.types.http_types.http_request",
-        "documentation": {}
-    },
-    {
-        "label": "HttpRequest",
-        "importPath": "src.types.http_types.http_request",
-        "description": "src.types.http_types.http_request",
-        "isExtraImport": true,
-        "detail": "src.types.http_types.http_request",
-        "documentation": {}
-    },
-    {
-        "label": "HttpRequest",
-        "importPath": "src.types.http_types.http_request",
-        "description": "src.types.http_types.http_request",
-        "isExtraImport": true,
-        "detail": "src.types.http_types.http_request",
-        "documentation": {}
-    },
-    {
-        "label": "HttpResponse",
-        "importPath": "src.types.http_types.http_response",
-        "description": "src.types.http_types.http_response",
-        "isExtraImport": true,
-        "detail": "src.types.http_types.http_response",
-        "documentation": {}
-    },
-    {
-        "label": "HttpResponse",
-        "importPath": "src.types.http_types.http_response",
-        "description": "src.types.http_types.http_response",
-        "isExtraImport": true,
-        "detail": "src.types.http_types.http_response",
-        "documentation": {}
-    },
-    {
-        "label": "HttpResponse",
-        "importPath": "src.types.http_types.http_response",
-        "description": "src.types.http_types.http_response",
-        "isExtraImport": true,
-        "detail": "src.types.http_types.http_response",
-        "documentation": {}
-    },
-    {
-        "label": "HttpResponse",
-        "importPath": "src.types.http_types.http_response",
-        "description": "src.types.http_types.http_response",
-        "isExtraImport": true,
-        "detail": "src.types.http_types.http_response",
-        "documentation": {}
-    },
-    {
-        "label": "HttpResponse",
-        "importPath": "src.types.http_types.http_response",
-        "description": "src.types.http_types.http_response",
-        "isExtraImport": true,
-        "detail": "src.types.http_types.http_response",
-        "documentation": {}
-    },
-    {
         "label": "calculator_manager",
         "importPath": "src.drivers.calculator_manager",
         "description": "src.drivers.calculator_manager",
@@ -165,38 +221,6 @@
         "description": "src.models.repositories.calculator_repository",
         "isExtraImport": true,
         "detail": "src.models.repositories.calculator_repository",
-        "documentation": {}
-    },
-    {
-        "label": "ICalculator",
-        "importPath": "src.controllers.interface.Icalculator",
-        "description": "src.controllers.interface.Icalculator",
-        "isExtraImport": true,
-        "detail": "src.controllers.interface.Icalculator",
-        "documentation": {}
-    },
-    {
-        "label": "ICalculator",
-        "importPath": "src.controllers.interface.Icalculator",
-        "description": "src.controllers.interface.Icalculator",
-        "isExtraImport": true,
-        "detail": "src.controllers.interface.Icalculator",
-        "documentation": {}
-    },
-    {
-        "label": "ICalculator",
-        "importPath": "src.controllers.interface.Icalculator",
-        "description": "src.controllers.interface.Icalculator",
-        "isExtraImport": true,
-        "detail": "src.controllers.interface.Icalculator",
-        "documentation": {}
-    },
-    {
-        "label": "ICalculator",
-        "importPath": "src.controllers.interface.Icalculator",
-        "description": "src.controllers.interface.Icalculator",
-        "isExtraImport": true,
-        "detail": "src.controllers.interface.Icalculator",
         "documentation": {}
     },
     {
@@ -227,30 +251,6 @@
         "documentation": {}
     },
     {
-        "label": "request",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "request",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
-        "label": "Flask",
-        "importPath": "flask",
-        "description": "flask",
-        "isExtraImport": true,
-        "detail": "flask",
-        "documentation": {}
-    },
-    {
         "label": "CalculatorOne",
         "importPath": "src.controllers.calculator1_controller",
         "description": "src.controllers.calculator1_controller",
@@ -260,10 +260,10 @@
     },
     {
         "label": "resquest_adapter",
-        "importPath": "src.main.adapter.request_adapter",
-        "description": "src.main.adapter.request_adapter",
+        "importPath": "src.adapter.request_adapter",
+        "description": "src.adapter.request_adapter",
         "isExtraImport": true,
-        "detail": "src.main.adapter.request_adapter",
+        "detail": "src.adapter.request_adapter",
         "documentation": {}
     },
     {
@@ -296,6 +296,15 @@
         "description": "src.server.server",
         "isExtraImport": true,
         "detail": "src.server.server",
+        "documentation": {}
+    },
+    {
+        "label": "resquest_adapter",
+        "kind": 2,
+        "importPath": "src.adapter.request_adapter",
+        "description": "src.adapter.request_adapter",
+        "peekOfCode": "def resquest_adapter(request:FlaskRequest, calculator: ICalculator) -> HttpResponse:\n    req = HttpRequest(\n        header=request.headers,\n        body=request.json,\n        query_params=dict(request.args),\n        path_params=request.view_args,\n        url=request.full_path,\n        ipv4=request.remote_addr,\n    )\n    response = calculator.operation(req)",
+        "detail": "src.adapter.request_adapter",
         "documentation": {}
     },
     {
@@ -350,15 +359,6 @@
         "description": "src.drivers.calculator_manager",
         "peekOfCode": "calculator_manager = __CalculatorManager()",
         "detail": "src.drivers.calculator_manager",
-        "documentation": {}
-    },
-    {
-        "label": "resquest_adapter",
-        "kind": 2,
-        "importPath": "src.main.adapter.request_adapter",
-        "description": "src.main.adapter.request_adapter",
-        "peekOfCode": "def resquest_adapter(request:FlaskRequest, calculator: ICalculator) -> HttpResponse:\n    req = HttpRequest(\n        header=request.headers,\n        body=request.json,\n        query_params=dict(request.args),\n        path_params=request.view_args,\n        url=request.full_path,\n        ipv4=request.remote_addr,\n    )\n    response = calculator.operation(req)",
-        "detail": "src.main.adapter.request_adapter",
         "documentation": {}
     },
     {

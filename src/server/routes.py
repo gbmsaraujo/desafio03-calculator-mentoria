@@ -1,5 +1,5 @@
 from src.controllers.calculator1_controller import CalculatorOne
-from src.main.adapter.request_adapter import resquest_adapter
+from src.adapter.request_adapter import resquest_adapter
 from src.controllers.calculator2_controller import CalculatorTwo
 from src.controllers.calculator3_controller import CalculatorThree
 from .server import app

@@ -1,0 +1,481 @@
+[
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "isExtraImport": true,
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_manager",
+        "importPath": "src.drivers.calculator_manager",
+        "description": "src.drivers.calculator_manager",
+        "isExtraImport": true,
+        "detail": "src.drivers.calculator_manager",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_manager",
+        "importPath": "src.drivers.calculator_manager",
+        "description": "src.drivers.calculator_manager",
+        "isExtraImport": true,
+        "detail": "src.drivers.calculator_manager",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_manager",
+        "importPath": "src.drivers.calculator_manager",
+        "description": "src.drivers.calculator_manager",
+        "isExtraImport": true,
+        "detail": "src.drivers.calculator_manager",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_manager",
+        "importPath": "src.drivers.calculator_manager",
+        "description": "src.drivers.calculator_manager",
+        "isExtraImport": true,
+        "detail": "src.drivers.calculator_manager",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_manager",
+        "importPath": "src.drivers.calculator_manager",
+        "description": "src.drivers.calculator_manager",
+        "isExtraImport": true,
+        "detail": "src.drivers.calculator_manager",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_manager",
+        "importPath": "src.drivers.calculator_manager",
+        "description": "src.drivers.calculator_manager",
+        "isExtraImport": true,
+        "detail": "src.drivers.calculator_manager",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_repository",
+        "importPath": "src.models.repositories.calculator_repository",
+        "description": "src.models.repositories.calculator_repository",
+        "isExtraImport": true,
+        "detail": "src.models.repositories.calculator_repository",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_repository",
+        "importPath": "src.models.repositories.calculator_repository",
+        "description": "src.models.repositories.calculator_repository",
+        "isExtraImport": true,
+        "detail": "src.models.repositories.calculator_repository",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_repository",
+        "importPath": "src.models.repositories.calculator_repository",
+        "description": "src.models.repositories.calculator_repository",
+        "isExtraImport": true,
+        "detail": "src.models.repositories.calculator_repository",
+        "documentation": {}
+    },
+    {
+        "label": "ICalculator",
+        "importPath": "src.controllers.interface.Icalculator",
+        "description": "src.controllers.interface.Icalculator",
+        "isExtraImport": true,
+        "detail": "src.controllers.interface.Icalculator",
+        "documentation": {}
+    },
+    {
+        "label": "ICalculator",
+        "importPath": "src.controllers.interface.Icalculator",
+        "description": "src.controllers.interface.Icalculator",
+        "isExtraImport": true,
+        "detail": "src.controllers.interface.Icalculator",
+        "documentation": {}
+    },
+    {
+        "label": "ICalculator",
+        "importPath": "src.controllers.interface.Icalculator",
+        "description": "src.controllers.interface.Icalculator",
+        "isExtraImport": true,
+        "detail": "src.controllers.interface.Icalculator",
+        "documentation": {}
+    },
+    {
+        "label": "ICalculator",
+        "importPath": "src.controllers.interface.Icalculator",
+        "description": "src.controllers.interface.Icalculator",
+        "isExtraImport": true,
+        "detail": "src.controllers.interface.Icalculator",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "CalculatorOne",
+        "importPath": "src.controllers.calculator1_controller",
+        "description": "src.controllers.calculator1_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.calculator1_controller",
+        "documentation": {}
+    },
+    {
+        "label": "resquest_adapter",
+        "importPath": "src.main.adapter.request_adapter",
+        "description": "src.main.adapter.request_adapter",
+        "isExtraImport": true,
+        "detail": "src.main.adapter.request_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "CalculatorTwo",
+        "importPath": "src.controllers.calculator2_controller",
+        "description": "src.controllers.calculator2_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.calculator2_controller",
+        "documentation": {}
+    },
+    {
+        "label": "CalculatorThree",
+        "importPath": "src.controllers.calculator3_controller",
+        "description": "src.controllers.calculator3_controller",
+        "isExtraImport": true,
+        "detail": "src.controllers.calculator3_controller",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "src.server.server",
+        "description": "src.server.server",
+        "isExtraImport": true,
+        "detail": "src.server.server",
+        "documentation": {}
+    },
+    {
+        "label": "ICalculator",
+        "kind": 6,
+        "importPath": "src.controllers.interface.Icalculator",
+        "description": "src.controllers.interface.Icalculator",
+        "peekOfCode": "class ICalculator(ABC):\n    @abstractmethod\n    def operation(self, req: HttpRequest) -> HttpResponse:\n        pass",
+        "detail": "src.controllers.interface.Icalculator",
+        "documentation": {}
+    },
+    {
+        "label": "CalculatorOne",
+        "kind": 6,
+        "importPath": "src.controllers.calculator1_controller",
+        "description": "src.controllers.calculator1_controller",
+        "peekOfCode": "class CalculatorOne(ICalculator):\n    def __init__(self) -> None:\n        self.values_in_list = []\n    def operation(self, req:HttpRequest) -> HttpResponse:\n        try:\n            number = float(req.body['number'])\n            divided_by_3 = self.__divide_by_3(number)\n            first_part = self.__first_part_operation(divided_by_3)\n            second_part = self.__second_part_operation(divided_by_3)\n            self.__format_to_list_values(divided_by_3, first_part, second_part)",
+        "detail": "src.controllers.calculator1_controller",
+        "documentation": {}
+    },
+    {
+        "label": "CalculatorTwo",
+        "kind": 6,
+        "importPath": "src.controllers.calculator2_controller",
+        "description": "src.controllers.calculator2_controller",
+        "peekOfCode": "class CalculatorTwo(ICalculator):\n    def __init__(self) -> None:\n        self.result = 0\n    def operation(self, req: HttpRequest) -> HttpResponse:\n        values = json.loads(req.body[\"values\"])\n        return self.__calcule_standard_deviation(values)\n    def __calcule_standard_deviation(self, values: list) -> HttpResponse:\n        result = [((number) * 11) ** 0.95 for number in values]\n        try:\n            calculator_repository.set_calculator_choice(\"Calculadora 2\")",
+        "detail": "src.controllers.calculator2_controller",
+        "documentation": {}
+    },
+    {
+        "label": "CalculatorThree",
+        "kind": 6,
+        "importPath": "src.controllers.calculator3_controller",
+        "description": "src.controllers.calculator3_controller",
+        "peekOfCode": "class CalculatorThree(ICalculator):\n    def __init__(self) -> None:\n        pass\n    def operation(self, req: HttpRequest) -> HttpResponse:\n        values = json.loads(req.body[\"values\"])\n        deviation = self.__calcule_standard_deviation(values)\n        variance = self.__calculate_variance(values)\n        if not variance >= deviation:\n            return HttpResponse(404, \"Falha ao processar a informação, tente novamente\")\n        calculator_repository.set_calculator_choice(\"Calculadora 3\")",
+        "detail": "src.controllers.calculator3_controller",
+        "documentation": {}
+    },
+    {
+        "label": "__CalculatorManager",
+        "kind": 6,
+        "importPath": "src.drivers.calculator_manager",
+        "description": "src.drivers.calculator_manager",
+        "peekOfCode": "class __CalculatorManager:\n    def __init__(self) -> None:\n        self.__np = np\n        self.__mt = math\n    def square(self, number: float):\n        return self.__mt.sqrt(number)\n    def average(self, list_numbers: list):\n        return self.__np.average(list_numbers)\n    def standard_deviation(self, list_numbers: list):\n        return self.__np.std(list_numbers)",
+        "detail": "src.drivers.calculator_manager",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_manager",
+        "kind": 5,
+        "importPath": "src.drivers.calculator_manager",
+        "description": "src.drivers.calculator_manager",
+        "peekOfCode": "calculator_manager = __CalculatorManager()",
+        "detail": "src.drivers.calculator_manager",
+        "documentation": {}
+    },
+    {
+        "label": "resquest_adapter",
+        "kind": 2,
+        "importPath": "src.main.adapter.request_adapter",
+        "description": "src.main.adapter.request_adapter",
+        "peekOfCode": "def resquest_adapter(request:FlaskRequest, calculator: ICalculator) -> HttpResponse:\n    req = HttpRequest(\n        header=request.headers,\n        body=request.json,\n        query_params=dict(request.args),\n        path_params=request.view_args,\n        url=request.full_path,\n        ipv4=request.remote_addr,\n    )\n    response = calculator.operation(req)",
+        "detail": "src.main.adapter.request_adapter",
+        "documentation": {}
+    },
+    {
+        "label": "__CalculatorRepository",
+        "kind": 6,
+        "importPath": "src.models.repositories.calculator_repository",
+        "description": "src.models.repositories.calculator_repository",
+        "peekOfCode": "class __CalculatorRepository:\n    def __init__(self) -> None:\n        self.calculator: str = None\n        self.entries: list | float = None\n        self.status: str = None\n        self.result: float | str = None\n    def set_calculator_choice(self, option: str) -> None:\n        self.calculator = option\n    def set_entries(self, entries: list | float) -> None:\n        self.entries = entries",
+        "detail": "src.models.repositories.calculator_repository",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_repository",
+        "kind": 5,
+        "importPath": "src.models.repositories.calculator_repository",
+        "description": "src.models.repositories.calculator_repository",
+        "peekOfCode": "calculator_repository = __CalculatorRepository()",
+        "detail": "src.models.repositories.calculator_repository",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_one",
+        "kind": 2,
+        "importPath": "src.server.routes",
+        "description": "src.server.routes",
+        "peekOfCode": "def calculator_one():\n    calculator_1 = resquest_adapter(request, CalculatorOne())\n    return calculator_1.body, calculator_1.status_code\n@app.route(\"/calculator2\", methods=[\"POST\"])\ndef calculator_two():\n    calculator_2 = resquest_adapter(request, CalculatorTwo())\n    return calculator_2.body, calculator_2.status_code\n@app.route(\"/calculator3\", methods=[\"POST\"])\ndef calculator_three():\n    calculator_3 = resquest_adapter(request, CalculatorThree())",
+        "detail": "src.server.routes",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_two",
+        "kind": 2,
+        "importPath": "src.server.routes",
+        "description": "src.server.routes",
+        "peekOfCode": "def calculator_two():\n    calculator_2 = resquest_adapter(request, CalculatorTwo())\n    return calculator_2.body, calculator_2.status_code\n@app.route(\"/calculator3\", methods=[\"POST\"])\ndef calculator_three():\n    calculator_3 = resquest_adapter(request, CalculatorThree())\n    return calculator_3.body, calculator_3.status_code",
+        "detail": "src.server.routes",
+        "documentation": {}
+    },
+    {
+        "label": "calculator_three",
+        "kind": 2,
+        "importPath": "src.server.routes",
+        "description": "src.server.routes",
+        "peekOfCode": "def calculator_three():\n    calculator_3 = resquest_adapter(request, CalculatorThree())\n    return calculator_3.body, calculator_3.status_code",
+        "detail": "src.server.routes",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "src.server.server",
+        "description": "src.server.server",
+        "peekOfCode": "app = Flask(__name__)\nfrom .routes import *",
+        "detail": "src.server.server",
+        "documentation": {}
+    },
+    {
+        "label": "TestCalculatorOne",
+        "kind": 6,
+        "importPath": "src.tests.test_calculator_one",
+        "description": "src.tests.test_calculator_one",
+        "peekOfCode": "class TestCalculatorOne:\n    entry = 21\n    part_one = 7\n    part_two = 7\n    part_three = 7\n    def test_divide_by_3(self):\n        result = self.entry / 3\n        assert result == 7\n    def test_first_part_operation(self):\n        result = (self.part_one / 4) + 7",
+        "detail": "src.tests.test_calculator_one",
+        "documentation": {}
+    },
+    {
+        "label": "TestCalculatorThree",
+        "kind": 6,
+        "importPath": "src.tests.test_calculator_three",
+        "description": "src.tests.test_calculator_three",
+        "peekOfCode": "class TestCalculatorThree:\n    list_number = [20,80]\n    variance = 77.13\n    deviation = 8.78\n    def test_variance_calc(self):\n        assert float(\"{:.2f}\".format(calculator_manager.variance(self.list_number))) == 900\n    def test_deviation_calc(self):\n        assert float(\"{:.2f}\".format(calculator_manager.standard_deviation(self.list_number))) == 30.00\n    def test_compare(self):\n        assert self.variance > self.deviation",
+        "detail": "src.tests.test_calculator_three",
+        "documentation": {}
+    },
+    {
+        "label": "TestCalculatorTwoController",
+        "kind": 6,
+        "importPath": "src.tests.test_calculator_two",
+        "description": "src.tests.test_calculator_two",
+        "peekOfCode": "class TestCalculatorTwoController:\n    list_numbers = [2, 4]\n    def test_standard_deviation(self):\n        result = [(number * 11) ** 0.95 for number in self.list_numbers]\n        assert float(\"{:.2f}\".format(calculator_manager.standard_deviation(result))) == 8.78",
+        "detail": "src.tests.test_calculator_two",
+        "documentation": {}
+    },
+    {
+        "label": "HttpRequest",
+        "kind": 6,
+        "importPath": "src.types.http_types.http_request",
+        "description": "src.types.http_types.http_request",
+        "peekOfCode": "class HttpRequest:\n    def __init__(\n        self,\n        header: Dict = None,\n        body: Dict = None,\n        query_params: Dict = None,\n        path_params: Dict = None,\n        url: str = None,\n        ipv4: str = None,\n        token_information: Dict = None",
+        "detail": "src.types.http_types.http_request",
+        "documentation": {}
+    },
+    {
+        "label": "HttpResponse",
+        "kind": 6,
+        "importPath": "src.types.http_types.http_response",
+        "description": "src.types.http_types.http_response",
+        "peekOfCode": "class HttpResponse:\n    def __init__(self, status_code:int, body: any) -> None:\n        self.status_code = status_code\n        self.body = body",
+        "detail": "src.types.http_types.http_response",
+        "documentation": {}
+    },
+    {
+        "label": "fun",
+        "kind": 2,
+        "importPath": "teste",
+        "description": "teste",
+        "peekOfCode": "def fun(*args):\n    numbers = list(args)\n    numbers_list.extend(numbers)\nfun(1,2,3)\nprint(numbers_list)",
+        "detail": "teste",
+        "documentation": {}
+    },
+    {
+        "label": "numbers_list",
+        "kind": 5,
+        "importPath": "teste",
+        "description": "teste",
+        "peekOfCode": "numbers_list = []\ndef fun(*args):\n    numbers = list(args)\n    numbers_list.extend(numbers)\nfun(1,2,3)\nprint(numbers_list)",
+        "detail": "teste",
+        "documentation": {}
+    }
+]

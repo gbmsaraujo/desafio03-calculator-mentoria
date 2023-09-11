@@ -1,4 +1,10 @@
-list_numbers = [2, 4]
-result = [(number * 11) ** 0.95 for number in list_numbers]
+numbers_list = []
 
-print(result)
+def fun(*args):
+    numbers = list(args)
+    numbers_list.extend(numbers)
+
+
+fun(1,2,3)
+
+print(numbers_list)

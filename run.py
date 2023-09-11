@@ -1,4 +1,4 @@
-from src.main.main import start_program
+from src.server.server import app
 
 if __name__ == "__main__":
-    start_program()
+    app.run(host="0.0.0.0", port=5007, debug=True)

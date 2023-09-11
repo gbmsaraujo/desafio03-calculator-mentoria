@@ -459,23 +459,5 @@
         "peekOfCode": "class HttpResponse:\n    def __init__(self, status_code:int, body: any) -> None:\n        self.status_code = status_code\n        self.body = body",
         "detail": "src.types.http_types.http_response",
         "documentation": {}
-    },
-    {
-        "label": "fun",
-        "kind": 2,
-        "importPath": "teste",
-        "description": "teste",
-        "peekOfCode": "def fun(*args):\n    numbers = list(args)\n    numbers_list.extend(numbers)\nfun(1,2,3)\nprint(numbers_list)",
-        "detail": "teste",
-        "documentation": {}
-    },
-    {
-        "label": "numbers_list",
-        "kind": 5,
-        "importPath": "teste",
-        "description": "teste",
-        "peekOfCode": "numbers_list = []\ndef fun(*args):\n    numbers = list(args)\n    numbers_list.extend(numbers)\nfun(1,2,3)\nprint(numbers_list)",
-        "detail": "teste",
-        "documentation": {}
     }
 ]
